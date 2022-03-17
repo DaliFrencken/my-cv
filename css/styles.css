@@ -9,6 +9,7 @@ body {
 	font-family: Lato, Impact, Haettenschweiler, Constantia, 'Lucida Bright', 'DejaVu Serif', Georgia, 'serif';
 	color: #202030;
 	background-color: #f8f8fc;
+	color:brown
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -22,7 +23,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #95D2F3;
+	background-color: #BCD0DD;
 }
 
 /* Styles for lists in the document */
