@@ -6,12 +6,10 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, Impact, Haettenschweiler, Constantia, 'Lucida Bright', 'DejaVu Serif', Georgia, 'serif';
+	font-family:'Oswald', sans-serif;;
 	color: #202030;
 	background-color: #f8f8fc;
-	color:brown
 }
-
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
